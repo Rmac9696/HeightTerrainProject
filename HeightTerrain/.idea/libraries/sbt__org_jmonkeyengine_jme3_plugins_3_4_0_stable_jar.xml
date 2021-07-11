@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: org.jmonkeyengine:jme3-plugins:3.4.0-stable:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/jmonkeyengine/jme3-plugins/3.4.0-stable/jme3-plugins-3.4.0-stable.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/jmonkeyengine/jme3-plugins/3.4.0-stable/jme3-plugins-3.4.0-stable-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/jmonkeyengine/jme3-plugins/3.4.0-stable/jme3-plugins-3.4.0-stable-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

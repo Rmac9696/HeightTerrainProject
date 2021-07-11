@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="heightterrain [file:/J:/Jmonkey%20tutorials/test/HeightTerrain/]" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_14">
+    <output url="file://$MODULE_DIR$/../../target/scala-3.0.0/classes" />
+    <output-test url="file://$MODULE_DIR$/../../target/scala-3.0.0/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/scala" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/scala" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="sbt: com.github.stephengold:asm-all:3.1.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.github.stephengold:jbullet:1.0.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.github.stephengold:stack-alloc:1.0.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.google.code.gson:gson:2.8.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.google.guava:guava:19.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.simsilica:lemur:1.14.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: javax.vecmath:vecmath:1.5.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: net.java.jinput:jinput:2.0.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: net.java.jinput:jinput:2.0.9:natives-all:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apache.ant:ant-launcher:1.10.10:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apache.ant:ant:1.10.10:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.codehaus.groovy:groovy-jsr223:3.0.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.codehaus.groovy:groovy:3.0.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jmonkeyengine:jme3-core:3.4.0-stable:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jmonkeyengine:jme3-desktop:3.4.0-stable:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jmonkeyengine:jme3-jbullet:3.4.0-stable:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jmonkeyengine:jme3-lwjgl:3.4.0-stable:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jmonkeyengine:jme3-plugins:3.4.0-stable:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jmonkeyengine:jme3-terrain:3.4.0-stable:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.lwjgl.lwjgl:lwjgl-platform:2.9.3:natives-linux:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.lwjgl.lwjgl:lwjgl-platform:2.9.3:natives-osx:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.lwjgl.lwjgl:lwjgl-platform:2.9.3:natives-windows:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.lwjgl.lwjgl:lwjgl:2.9.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.13.5:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala3-library_3:3.0.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.slf4j:slf4j-api:1.7.30:jar" level="project" />
+  </component>
+</module>

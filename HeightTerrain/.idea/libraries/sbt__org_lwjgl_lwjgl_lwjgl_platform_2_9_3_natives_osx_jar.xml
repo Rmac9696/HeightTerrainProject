@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: org.lwjgl.lwjgl:lwjgl-platform:2.9.3:natives-osx:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/lwjgl/lwjgl/lwjgl-platform/2.9.3/lwjgl-platform-2.9.3-natives-osx.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
